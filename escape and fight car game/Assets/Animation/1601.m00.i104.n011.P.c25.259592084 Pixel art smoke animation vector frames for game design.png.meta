@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: aca6a5e9370bbb24989f5abeb0db2e27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 372513094830244957
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_0
+  - first:
+      213: 8447227327168429576
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_1
+  - first:
+      213: 8718057713905354726
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_2
+  - first:
+      213: 8591755854271597651
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_3
+  - first:
+      213: 6945686254509280995
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_4
+  - first:
+      213: 1824194119723256406
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_5
+  - first:
+      213: -7465280092985400907
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_6
+  - first:
+      213: 8498927110783673421
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_7
+  - first:
+      213: 193850893865338512
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_8
+  - first:
+      213: 3973374570598184278
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_9
+  - first:
+      213: 8711248284496864105
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_10
+  - first:
+      213: -8806059027458327995
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_11
+  - first:
+      213: -6053609695635980183
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_12
+  - first:
+      213: 7073975893282855846
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_13
+  - first:
+      213: -5237092606314504776
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_14
+  - first:
+      213: 6986042002576491314
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_15
+  - first:
+      213: -7861283874502758015
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_16
+  - first:
+      213: -1921353720459886053
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_17
+  - first:
+      213: -4813417873165614702
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_18
+  - first:
+      213: -5543587022038170220
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_19
+  - first:
+      213: 377941922753599448
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_20
+  - first:
+      213: 1603231463525368393
+    second: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+      for game design_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 119
+        width: 517
+        height: 621
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c983afae6b2500800000000000000
+      internalID: 372513094830244957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 855
+        width: 325
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eb8dcaf749a3570800000000000000
+      internalID: 8447227327168429576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_2
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 327
+        width: 439
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7cea0fc43ccf870800000000000000
+      internalID: 8718057713905354726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_3
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 855
+        width: 384
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ccdbaad6c0c3770800000000000000
+      internalID: 8591755854271597651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_4
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 336
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eec65149d8046060800000000000000
+      internalID: 6945686254509280995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_5
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 351
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a067b03e6d05910800000000000000
+      internalID: 1824194119723256406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_6
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 366
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b16fc4ee4ff56890800000000000000
+      internalID: -7465280092985400907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_7
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 410
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44a2329d2142f570800000000000000
+      internalID: 8498927110783673421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_8
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 484
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0964c346c52b0b200800000000000000
+      internalID: 193850893865338512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_9
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 824
+        width: 536
+        height: 656
+      alignment: 9
+      pivot: {x: 0.5139733, y: 0.5080802}
+      border: {x: 0, y: 0, z: 0, w: 656}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6553310ce13442730800000000000000
+      internalID: 3973374570598184278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_10
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 541
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963aaab192294e870800000000000000
+      internalID: 8711248284496864105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_11
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 615
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a793598f79ac580800000000000000
+      internalID: -8806059027458327995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_12
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 482
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960c1c22e024dfba0800000000000000
+      internalID: -6053609695635980183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_13
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 414
+        width: 385
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab1dcc689fcb2260800000000000000
+      internalID: 7073975893282855846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_14
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 660
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd9cc8950c1257b0800000000000000
+      internalID: -5237092606314504776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_15
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 660
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233c78d003863f060800000000000000
+      internalID: 6986042002576491314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_16
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 497
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181b1cd87fb17e290800000000000000
+      internalID: -7861283874502758015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_17
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 423
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b120d1498faf555e0800000000000000
+      internalID: -1921353720459886053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_18
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 453
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291827a62fd433db0800000000000000
+      internalID: -4813417873165614702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_19
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 586
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49503f189f83113b0800000000000000
+      internalID: -5543587022038170220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_20
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 615
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7d4732d28be3500800000000000000
+      internalID: 377941922753599448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1601.m00.i104.n011.P.c25.259592084 Pixel art smoke animation vector frames
+        for game design_21
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 556
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942c8249582df3610800000000000000
+      internalID: 1603231463525368393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

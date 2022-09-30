@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2205b0437fe881e49a74ce5fa30758c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carsPrefab: {fileID: 6100297901524769296, guid: a49764c290eefe04ca1142dad6dca842, type: 3}
+  - motorsPrefab: {fileID: 4713503177103430524, guid: d12a777dff799624abbdca00e117bb6a, type: 3}
+  - coinPrefab: {instanceID: 0}
+  - peelPrefab: {fileID: 1146692503523184250, guid: 515acbb652624634dbfca27e285dbb0b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
